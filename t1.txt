@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+plz say something.
+I am from the Mars.
+=======
+fist modify
+hello
+test6
+>>>>>>> c4ae9cb3f15fde06b4a149e86fcbaf8d280d7e37
