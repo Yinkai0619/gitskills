@@ -1,0 +1,7 @@
+README.en.md
+README.md
+readme.txt
+t1.txt
+t2.txt
+t3.txt
+VS.docx
