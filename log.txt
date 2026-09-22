@@ -1,0 +1,123 @@
+*   commit ea8d384
+|\  Merge: 1b0f730 2e25ab3
+| | Author: Li Yinkai <liyk@dfzk.com>
+| | Date:   Thu Jul 24 16:02:16 2025 +0800
+| | 
+| |     Merge branch 'develop'
+| |   
+| *   commit 2e25ab3
+| |\  Merge: 47e021d bc0b763
+| | | Author: Li Yinkai <liyk@dfzk.com>
+| | | Date:   Thu Jul 24 16:01:28 2025 +0800
+| | | 
+| | |     Merge branch 't1b' into develop
+| | | 
+| | * commit bc0b763
+| |/  Author: Li Yinkai <liyk@dfzk.com>
+| |   Date:   Thu Jul 24 16:00:11 2025 +0800
+| |   
+| |       add test1.
+| | 
+* | commit 1b0f730
+|\| Merge: a0d994e 47e021d
+| | Author: Li Yinkai <liyk@dfzk.com>
+| | Date:   Thu Jul 24 15:50:30 2025 +0800
+| | 
+| |     20250724
+| | 
+| * commit 47e021d
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Thu Aug 8 23:00:55 2019 +0800
+| | 
+| |     commit 7: Update t2.txt
+| |   
+| *   commit 2cf583f
+| |\  Merge: 7fe57b7 c4ae9cb
+| | | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | | Date:   Tue Aug 6 23:41:22 2019 +0800
+| | | 
+| | |     Merge branch 'develop' of gitee.com:dfzk/gitskills into develop
+| | | 
+| | * commit c4ae9cb
+| | | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | | Date:   Mon Aug 5 23:22:05 2019 +0800
+| | | 
+| | |     Commit 6
+| | | 
+| | * commit fd464a8
+| | | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | | Date:   Mon Aug 5 23:20:53 2019 +0800
+| | | 
+| | |     commit 5
+| | | 
+| * | commit 7fe57b7
+| | | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | | Date:   Tue Aug 6 23:27:19 2019 +0800
+| | | 
+| | |     Add t2.txt
+| | | 
+| * | commit 6f30511
+| |/  Author: Li Yinkai <yinkai.li@foxmail.com>
+| |   Date:   Tue Aug 6 23:24:59 2019 +0800
+| |   
+| |       t2.txt rename to t1.txt
+| | 
+| * commit 4862b73
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Mon Aug 5 23:19:24 2019 +0800
+| | 
+| |     commit 4
+| | 
+| * commit 0c9e267
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Mon Aug 5 23:15:30 2019 +0800
+| | 
+| |     Commit 3: Modify t2.txt
+| | 
+| * commit c053ea3
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Mon Aug 5 23:02:01 2019 +0800
+| | 
+| |     Commit 2: Modify t2.txt
+| | 
+| * commit 837d7b5
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Mon Aug 5 22:47:10 2019 +0800
+| | 
+| |     Add t2.txt
+| | 
+| * commit fd66ae7
+| | Author: Yinkai-ITVMPC <liyk@oimec.com.cn>
+| | Date:   Fri Aug 2 16:15:19 2019 +0800
+| | 
+| |     Add readme.txt
+| | 
+| * commit 8a4c99a
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Thu Aug 1 17:34:56 2019 +0800
+| | 
+| |     Update test1.txt
+| | 
+| * commit 495f93c
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Thu Aug 1 17:32:33 2019 +0800
+| | 
+| |     Add VS.docx
+| | 
+| * commit 982166a
+| | Author: Li Yinkai <yinkai.li@foxmail.com>
+| | Date:   Thu Aug 1 16:39:18 2019 +0800
+| | 
+| |     Add test1.txt
+| | 
+| * commit ae5a4f4
+|   Author: 李银凯 <yinkai.li@foxmail.com>
+|   Date:   Thu Aug 1 16:13:38 2019 +0800
+|   
+|       Initial commit
+| 
+* commit a0d994e
+  Author: Yinkai <44455621+Yinkai0619@users.noreply.github.com>
+  Date:   Thu Aug 8 22:42:30 2019 +0800
+  
+      Initial commit
