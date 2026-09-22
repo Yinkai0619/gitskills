@@ -1,0 +1,19 @@
+* a5c5167 add t4.txt
+* e6795df ADD t3.txt
+* 47e021d commit 7: Update t2.txt
+*   2cf583f Merge branch 'develop' of gitee.com:dfzk/gitskills into develop
+|\  
+| * c4ae9cb Commit 6
+| * fd464a8 commit 5
+* | 7fe57b7 Add t2.txt
+* | 6f30511 t2.txt rename to t1.txt
+|/  
+* 4862b73 commit 4
+* 0c9e267 Commit 3: Modify t2.txt
+* c053ea3 Commit 2: Modify t2.txt
+* 837d7b5 Add t2.txt
+* fd66ae7 Add readme.txt
+* 8a4c99a Update test1.txt
+* 495f93c Add VS.docx
+* 982166a Add test1.txt
+* ae5a4f4 Initial commit
